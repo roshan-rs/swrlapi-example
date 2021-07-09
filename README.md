@@ -15,7 +15,7 @@ To build and run this project you must have the following items installed:
 
 Get a copy of the latest code:
 
-    git clone https://github.com/protegeproject/swrlapi-example.git 
+   // git clone https://github.com/protegeproject/swrlapi-example.git 
 
 Change into the swrlapi-example directory:
 
